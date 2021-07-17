@@ -41,6 +41,11 @@ body {
     height: 100%;
 }
 
+.description{
+    font-size: 2em;
+    text-align: center;
+}
+
 @media (min-width: 768px) {
     .bd-placeholder-img-lg {
         font-size: 3.5rem;
